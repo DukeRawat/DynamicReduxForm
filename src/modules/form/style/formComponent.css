@@ -1,0 +1,13 @@
+.formStyle{
+    background-color: aquamarine;
+    border-radius: 1%;
+    padding-bottom: 2em;
+    padding-top: 1em;
+}
+.formCaption{
+    text-align: center;
+    color: #286090;
+    font-weight: 600;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
