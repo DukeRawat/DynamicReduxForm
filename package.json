@@ -2,7 +2,7 @@
   "name": "vetted-demoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DukeRawat.github.io/DynamicReduxForm",
+  "homepage": "https://dukerawat.github.io/DynamicReduxForm",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
